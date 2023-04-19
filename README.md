@@ -1,1 +1,1 @@
-# Surihix.github.io
+# surihix.github.io
