@@ -19,6 +19,13 @@ This winforms app helps in adjusting the volume levels of the music files from t
 <br><br>
 # File operation related tools:
 ## [HashCheck](https://github.com/Surihix/HashCheck)
+A simple SHA-256 hash checking app that allows users to quickly check the hash of two files and see if they matches for both the files. can be useful when dealing with a lot of similarly named files that may or may not have the same binary data
+
 ## [DeviPackUnpack tool](https://github.com/Surihix/DeviPackUnpackTool)
+A app that I made for making my own archive like format for storing one or more files. can be useful for those looking into storing their data in a non standard form.
+
 ## [Zlib Decompressor](https://github.com/Surihix/ZLIB_decompressor)
+A app that helps in decompressing zlib compressed data with the help of the SharpZipLib C# library. 
+
 ## [HeaderBytesRemover](https://github.com/Surihix/HeaderBytesRemover)
+One of my first apps that helps in trimming a select amount of bytes from the starting position of a file. 
