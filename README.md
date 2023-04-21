@@ -3,7 +3,7 @@ The following is a list of tools, mod related programs, and file operation relat
 # Game modding related tools
 ## [Drakengard 1 & 2 File extractor](https://github.com/Surihix/Drakengard1and2Extractor)
 This is a winforms app, that has multiple options to extract data from specific file formats from the PS2 games, Drakengard 1 and 2.
-![Iamge text](website_images\D1&2ExtractorApp.png)
+![Image text](website_images/D1&2ExtractorApp.png)
 
 ## [Drakengard 3 Music Maker](https://github.com/Surihix/Drakengard3MusicMaker)
 This is a winforms app that allows users to replace any of the music file from the PS3 game Drakengard 3, with a custom music file of their choice. 
