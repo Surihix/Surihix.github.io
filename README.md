@@ -14,7 +14,7 @@ This app helps in extracting the audio files from Drakengard 3 to a playable mp3
 This app helps in extracting data from the Final Fantasy XIII trilogy's game resource archive files as well as repack the extracted data back into the archive. this app started development as a practise for me to better understand the file formats of the archives and that eventually ended up with me making a full suite of unpack and repacking tools to meet specific requirements for future mod ideas and for others to use in the modding community. 
 
 ## [Lightning Returns Music Volume Slider](https://github.com/Surihix/LRMusicVolumeSlider)
-This winforms app helps in adjusting the volume levels of the music files from Lightning returns game PC version. as the game doesn't have the option to increase the volume levels ingame, I took it upon myself to make a app that allows users to increase and decrease the volume of the music. 
+This winforms app helps in adjusting the volume levels of the music files from the game Lightning Returns Final Fantasy XIII PC version. as the game doesn't have the option to increase the volume levels ingame, I took it upon myself to make a app that allows users to increase and decrease the volume of the music to whatever level they want. 
 
 <br><br>
 # File operation related tools:
