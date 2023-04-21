@@ -5,4 +5,4 @@
 <br>
 
 # Other tools
-* [File operation related tools:](file_related_tools.md)
+* [File operation related tools](file_related_tools.md)
