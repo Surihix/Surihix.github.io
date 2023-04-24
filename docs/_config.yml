@@ -4,3 +4,7 @@ plugins:
 
 title: Surihix's tools
 description: A Collection of tools made for modding games, extracting data from game resource archives and for other file related operations
+
+github:
+  zip_url: https://github.com/Surihix
+  another_url: Github profile
