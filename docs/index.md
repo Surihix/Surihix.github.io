@@ -4,6 +4,7 @@ The following is a set of tools that I have made, which are all open sourced wit
 # Game modding related tools
 * [Drakengard series](drakengard_series.md)
 * [Final Fantasy XIII series](ffxiii_series.md)
+* [Zone of the Enders 2 series](zoe2_series.md)
 <br><br>
 
 # Other tools

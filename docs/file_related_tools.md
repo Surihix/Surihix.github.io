@@ -1,4 +1,3 @@
-# File operation related tools:
 ## [Hash Check](https://github.com/Surihix/HashCheck)
 A simple SHA-256 hash checking app that allows users to quickly check the hash of two files and see if they matches for both the files. can be useful when dealing with a lot of similarly named files that may or may not have the same binary data.
 <br><br>
