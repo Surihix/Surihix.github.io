@@ -8,6 +8,6 @@ This is a winforms app that allows users to replace any of the music file from t
 
 ![img](images/Drk3_MusicMakerApp.png)
 <br><br>
-## [Drakengard 3 xxx To mp3 extractor app](https://github.com/Surihix/Drakengard3xxxToMp3)
+## [Drakengard 3 xxx To mp3 extractor](https://github.com/Surihix/Drakengard3xxxToMp3)
 This app helps in extracting the audio files from Drakengard 3 to a playable mp3 format. this was earlier designed to be a part of the music maker app but was eventually made as a separate console app to allow batch conversion of multiple audio files.
 <br><br>
