@@ -1,7 +1,7 @@
 remote_theme: pages-themes/hacker@v0.2.0
 
 title: Surihix's tools
-description: <a href="https://github.com/Surihix?tab=repositories">A Collection of tools made for modding games, extracting data from game resource archives and for other file related operations.</a>
+description: A Collection of tools made for modding games, extracting data from game resource archives and for other file related operations.
 
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
